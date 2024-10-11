@@ -12,11 +12,7 @@ def clear_terminal():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 def art():
-    print(f"{Fore.LIGHTRED_EX}" + r"""  ____                      _______ _____""" + f"{Style.RESET_ALL}")
-    print(f"{Fore.GREEN}" + r""" |  _ \   ___    ___  __  __|__   __|  __ \ """ + f"{Style.RESET_ALL}")
-    print(f"{Fore.MAGENTA}" + r""" | | | | / _ \  / _ \ \ \/ /   | |  | |  | |""" + f"{Style.RESET_ALL}")
-    print(f"{Fore.LIGHTRED_EX}" + r""" | |_| ||   _/ ||  __/  >  <    | |  | |  | |""" + f"{Style.RESET_ALL}")
-    print(f"{Fore.GREEN}" + r""" |____/  \___/  \___| /_/\_\   |_|  |_|  |_|""" + f"{Style.RESET_ALL}")
+    
 
     print(f"{Fore.CYAN + Style.BRIGHT}Subscribe to our YouTube: https://www.youtube.com/@DeepT.V{Style.RESET_ALL}\n")
     print(f"{Fore.CYAN + Style.BRIGHT}Join our Telegram: https://t.me/DeepTV12{Style.RESET_ALL}\n")
