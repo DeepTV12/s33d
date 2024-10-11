@@ -1,4 +1,4 @@
-Join seed bot link here :t.me/seed_coin_bot/app?startapp=1621112077
+Join seed bot link here : http://t.me/seed_coin_bot/app?startapp=1621112077
 
 join fast as it's listing next month
 
